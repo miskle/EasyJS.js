@@ -1,2 +1,0 @@
-function easy() {}
-easy();
